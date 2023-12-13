@@ -26,7 +26,7 @@ public class Main {
         System.out.print("Patlican kac kilo ? : ");
         eggplantW = inp.nextInt();
 
-        //Amount variable set equal to body mass index.
+        //Amount variable set equal to sum of prices.
         amount = (pearW * pear) + (appleW * apple) + (tomatoesW * tomatoes) + (bananaW * banana) + (eggplantW * eggplant);
 
         //Result printed.
